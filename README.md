@@ -10,7 +10,7 @@ Dataset Source : Kaggle
 
 Dataset URL : https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-Algorithm used : Random Forest, Xgboost.
+Algorithms used : Random Forest, Xgboost.
 
 Libraries used:
 Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Xgboost, datetime
