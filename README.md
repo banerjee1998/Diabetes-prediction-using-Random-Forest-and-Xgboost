@@ -1,4 +1,4 @@
-**Diabetes prediction using random forest and xgboost algorithms on the pima dataset. **
+******Diabetes prediction using random forest and xgboost algorithms on the pima dataset. *******
 
 Dataset used: Pima Indians Diabetes Database
 
